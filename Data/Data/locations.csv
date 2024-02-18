@@ -1,0 +1,13 @@
+﻿LocationId,LocationName,DayOfWeek,StartTime,EndTime
+
+1,Health Hub Pharmacy,Monday,10:00,13:00
+2,Sweet Delights Bakery,Sunday,10:00,13:00
+3,Fresh Cuts Barber Shop,Saturday,10:00,15:00
+4,Green Garden Supermarket,Friday,11:00,18:00
+5,Candyland Confectionery,Thursday,10:00,13:00
+6,Silver Screen Cinema Complex,Thursday,10:00,13:30
+7,Tech Solutions IT Services,Wednesday,10:00,13:00
+8,Bookworm Bookstore,Wednesday,10:00,23:00
+9,Fit Zone Gym,Monday,10:00,13:00
+10,Pet Paradise Veterinary Clinic,Friday,10:00,14:00
+11,Anytime Fitness,Monday,10:00,13:00
